@@ -9,7 +9,7 @@
  *
  */
 
-namespace tolik505\tagEditor;
+namespace soless\tagEditor;
 
 use yii\widgets\InputWidget;
 use yii\helpers\Html;
@@ -18,7 +18,7 @@ use yii\helpers\Json;
 /**
  * Class TagEditor
  *
- * @package tolik505\tagEditor
+ * @package soless\tagEditor
  */
 class TagEditor extends InputWidget
 {
