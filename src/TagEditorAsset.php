@@ -4,14 +4,14 @@
  * @link http://goodies.pixabay.com/jquery/tag-editor/demo.html
  */
 
-namespace tolik505\tagEditor;
+namespace soless\tagEditor;
 
 use yii\web\AssetBundle;
 
 /**
  * Class TagEditorAsset
  *
- * @package tolik505\tagEditor
+ * @package soless\tagEditor
  */
 class TagEditorAsset extends AssetBundle
 {
