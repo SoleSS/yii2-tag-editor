@@ -1,4 +1,4 @@
-Yii2 tag editor widget
+Yii2 tag editor widget (fork of tolik505/yii2-tag-editor)
 =====================
 Widget for tags adding. Based on https://goodies.pixabay.com/jquery/tag-editor/demo.html
 
@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist tolik505/yii2-tag-editor "*"
+php composer.phar require --prefer-dist soless/yii2-tag-editor "*"
 ```
 
 or add
 
 ```
-"tolik505/yii2-tag-editor": "*"
+"soless/yii2-tag-editor": "*"
 ```
 
 to the require section of your `composer.json` file.
